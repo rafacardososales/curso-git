@@ -8,6 +8,7 @@ namespace RA
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom Dia!");
+            Console.WriteLine("Como você esta hoje?");
 
             Console.ReadLine();
         }
